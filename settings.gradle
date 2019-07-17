@@ -1,1 +1,1 @@
-include ':app', ':jitakfirstlibtesting'
+include ':app', ':jitakfirstlibtesting', ':anotherlib'
